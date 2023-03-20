@@ -227,3 +227,23 @@ background: #67a3d9;
   text-align: center; 
   
 }
+
+.cert {
+  color: #ff4b58;
+  padding-left: 500px;
+  font-size: 40px;
+  margin: 10px;
+  font-family: sans-serif
+}
+
+.cert_h1 {
+  padding: 10px;
+  padding-top: 70px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.pcert {
+  padding: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
